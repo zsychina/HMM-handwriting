@@ -6,7 +6,6 @@ from hmmlearn import hmm
 import numpy as np
 
 # def get_cluster_num(point):
-#     # 使用k=1的KNN得到某个点的聚类编号
 #     x = point[0]
 #     y = point[1]
 #     for cluster_num in range(len(clusters)):
